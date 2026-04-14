@@ -3,6 +3,7 @@
 ## Description
 Sample project to show CI/CD with GitHub Actions. Implements a basic calculator in Java 21 with unit tests using JUnit 5 and Mockito.
 
+
 ## Features
 - ✅ Java 21
 - ✅ Maven as build tool
